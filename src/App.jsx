@@ -7,6 +7,7 @@ function App() {
   return (
     <Provider store={store}>
       <Todo />
+      Im in todo
     </Provider>
   );
 }
