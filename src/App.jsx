@@ -7,7 +7,6 @@ function App() {
   return (
     <Provider store={store}>
       <Todo />
-      <p>ok</p>
     </Provider>
   );
 }
